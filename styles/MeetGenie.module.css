@@ -1,0 +1,39 @@
+.cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+.cont h1 {
+  width: 50%;
+  color: white;
+}
+.mainCont {
+  text-align: center;
+}
+.btn {
+  background: #f50c20;
+  padding: 7px;
+  border-radius: 5px;
+  border: 3px solid white;
+  font-weight: bold;
+}
+.btn {
+  color: white;
+}
+
+.btn:hover,
+.btn:focus,
+.btn:active {
+  cursor: pointer;
+  color: #f50c20;
+  background: white;
+  transition: 0.15s all ease;
+}
+
+.btn {
+  line-height: 1.5;
+  font-size: 1.2em;
+  margin-bottom: 5px;
+}

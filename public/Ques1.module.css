@@ -1,0 +1,1474 @@
+.divN {
+  /* Group 3 */
+
+  position: absolute;
+  width: 1011px;
+  height: 840px;
+  left: 218px;
+  top: 48px;
+
+  /* Scene/Home */
+
+  position: absolute;
+  width: 1011px;
+  height: 792px;
+  left: 218px;
+  top: 48px;
+
+  /* Clock */
+
+  position: absolute;
+  width: 106px;
+  height: 106px;
+  left: 641px;
+  top: 141px;
+
+  /* Clock Frame */
+
+  position: absolute;
+  width: 106px;
+  height: 106px;
+  left: calc(50% - 106px / 2 + 188.5px);
+  top: calc(50% - 106px / 2 - 202px);
+
+  background: #f2f2f2;
+
+  /* Time */
+
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  left: calc(50% - 6px / 2 + 188.5px);
+  top: calc(50% - 6px / 2 - 244px);
+
+  background: rgba(0, 0, 0, 0.1);
+
+  /* Time */
+
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  left: calc(50% - 6px / 2 + 146.5px);
+  top: calc(50% - 6px / 2 - 202px);
+
+  background: rgba(0, 0, 0, 0.1);
+
+  /* Time */
+
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  left: calc(50% - 6px / 2 + 230.5px);
+  top: calc(50% - 6px / 2 - 202px);
+
+  background: rgba(0, 0, 0, 0.1);
+
+  /* Time */
+
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  left: calc(50% - 6px / 2 + 188.5px);
+  top: calc(50% - 6px / 2 - 160px);
+
+  background: rgba(0, 0, 0, 0.1);
+
+  /* Hand */
+
+  position: absolute;
+  width: 4px;
+  height: 35px;
+  left: calc(50% - 4px / 2 + 188.5px);
+  top: calc(50% - 35px / 2 - 220.5px);
+
+  background: #afb9c5;
+
+  /* Hand */
+
+  position: absolute;
+  width: 4px;
+  height: 24px;
+  left: calc(50% - 4px / 2 + 209.61px);
+  top: calc(50% - 24px / 2 - 173.72px);
+
+  background: #afb9c5;
+  transform: matrix(-0.71, 0.71, -0.71, -0.71, 0, 0);
+
+  /* Time */
+
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  left: calc(50% - 8px / 2 + 188.5px);
+  top: calc(50% - 8px / 2 - 202px);
+
+  background: #c5cfd6;
+
+  /* Background Shape 2 */
+
+  position: absolute;
+  left: 3.92%;
+  right: 4.46%;
+  top: 35.88%;
+  bottom: 16.62%;
+
+  mix-blend-mode: normal;
+  opacity: 0.35;
+
+  /* Background Shape */
+
+  position: absolute;
+  left: 721px;
+  right: -515.71px;
+  top: 0%;
+  bottom: 14.55%;
+
+  background: #f2f2f2;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Background Shape */
+
+  position: absolute;
+  left: 244px;
+  right: 0.29px;
+  top: 23.53%;
+  bottom: 0%;
+
+  background: #dde3e9;
+
+  /* Hanging Lamp */
+
+  position: absolute;
+  width: 99px;
+  height: 210px;
+  left: calc(50% - 99px / 2 - 295px);
+  top: 0px;
+
+  /* Light */
+
+  position: absolute;
+  width: 99px;
+  height: 57px;
+  left: 0px;
+  top: 152.67px;
+
+  /* Hanging Lamp Light */
+
+  position: absolute;
+  width: 85px;
+  height: 45px;
+  left: calc(50% - 85px / 2);
+  bottom: 0.33px;
+
+  background: #f2f2f2;
+
+  /* Hanging Lamp */
+
+  position: absolute;
+  width: 99px;
+  height: 50px;
+  left: calc(50% - 99px / 2);
+  bottom: 7.33px;
+
+  background: #dde3e9;
+
+  /* Wire */
+
+  position: absolute;
+  width: 5px;
+  left: calc(50% - 5px / 2);
+  top: 0px;
+  bottom: 50px;
+
+  background: #dde3e9;
+
+  /* Hanging Lamp */
+
+  position: absolute;
+  width: 74px;
+  height: 159px;
+  left: calc(50% - 74px / 2 - 217.5px);
+  top: 0px;
+
+  mix-blend-mode: normal;
+  opacity: 0.7;
+
+  /* Light */
+
+  position: absolute;
+  width: 74px;
+  height: 46px;
+  left: 0px;
+  top: 113px;
+
+  /* Hanging Lamp Light */
+
+  position: absolute;
+  width: 63.54px;
+  height: 36.32px;
+  left: calc(50% - 63.54px / 2 + 0px);
+  bottom: 0px;
+
+  background: #f2f2f2;
+
+  /* Hanging Lamp */
+
+  position: absolute;
+  width: 74px;
+  height: 40.35px;
+  left: calc(50% - 74px / 2);
+  bottom: 5.65px;
+
+  background: #dde3e9;
+
+  /* Wire */
+
+  position: absolute;
+  width: 5px;
+  left: calc(50% - 5px / 2 + 0.5px);
+  top: 0px;
+  bottom: 23px;
+
+  background: #dde3e9;
+
+  /* Lamp */
+
+  position: absolute;
+  height: 412px;
+  left: 70.81%;
+  right: 5.81%;
+  bottom: 70px;
+
+  /* Body */
+
+  position: absolute;
+  left: 60px;
+  right: 29.36px;
+  top: 12px;
+  bottom: 6px;
+
+  border: 8px solid #cbcbcb;
+
+  /* Lamp Base */
+
+  position: absolute;
+  width: 59px;
+  height: 7px;
+  right: 0.36px;
+  bottom: 0px;
+
+  background: #afb9c5;
+  border-radius: 3px;
+
+  /* Lamp Top */
+
+  position: absolute;
+  width: 66.18px;
+  height: 66.56px;
+  left: 47.83px;
+  top: 2px;
+
+  transform: rotate(45deg);
+
+  /* Lamp */
+
+  position: absolute;
+  width: 66px;
+  height: 61px;
+  left: 47.83px;
+  top: 2px;
+
+  background: #c5cfd6;
+  border-radius: 35.5px 35.5px 0px 0px;
+  transform: rotate(45deg);
+
+  /* Lamp */
+
+  position: absolute;
+  width: 66px;
+  height: 13px;
+  left: 10.09px;
+  top: 40px;
+
+  background: #f2f2f2;
+  transform: rotate(45deg);
+
+  /* Big Leaf Plant */
+
+  position: absolute;
+  width: 136px;
+  height: 238px;
+  left: 152px;
+  top: 484px;
+
+  /* Big Ass Leaf */
+
+  position: absolute;
+  width: 70px;
+  height: 142px;
+  left: 175px;
+  top: 484px;
+
+  /* leaf */
+
+  position: absolute;
+  width: 70px;
+  height: 142px;
+  left: calc(50% - 70px / 2 - 295.5px);
+  bottom: 166px;
+
+  background: #dde3e9;
+
+  /* middle thing */
+
+  position: absolute;
+  width: 22px;
+  height: 129px;
+  left: calc(50% - 22px / 2 - 298.5px);
+  bottom: 170px;
+
+  background: #c5cfd6;
+
+  /* Big Ass Leaf */
+
+  position: absolute;
+  width: 104px;
+  height: 178px;
+  left: 184px;
+  top: 494px;
+
+  /* leaf */
+
+  position: absolute;
+  width: 104px;
+  height: 178px;
+  left: calc(50% - 104px / 2 - 269.5px);
+  bottom: 120px;
+
+  background: #dde3e9;
+
+  /* middle thing */
+
+  position: absolute;
+  width: 55px;
+  height: 160px;
+  left: calc(50% - 55px / 2 - 262px);
+  bottom: 125px;
+
+  background: #c5cfd6;
+
+  /* Big Ass Leaf */
+
+  position: absolute;
+  width: 83px;
+  height: 127px;
+  left: 152px;
+  top: 540px;
+
+  /* leaf */
+
+  position: absolute;
+  width: 83px;
+  height: 127px;
+  left: calc(50% - 83px / 2 - 312px);
+  bottom: 125px;
+
+  background: #c5cfd6;
+
+  /* middle thing */
+
+  position: absolute;
+  width: 52px;
+  height: 112px;
+  left: calc(50% - 52px / 2 - 309.5px);
+  bottom: 126px;
+
+  background: #afb9c5;
+
+  /* Base */
+
+  position: absolute;
+  width: 78px;
+  height: 58px;
+  left: calc(50% - 78px / 2 - 286.5px);
+  bottom: 70px;
+
+  background: #89c5cc;
+
+  /* Table */
+
+  position: absolute;
+  width: 125px;
+  height: 257px;
+  left: 271px;
+  top: 465px;
+
+  /* Lamp */
+
+  position: absolute;
+  width: 78px;
+  height: 153px;
+  left: 294px;
+  top: 465px;
+
+  /* Lamp Base */
+
+  position: absolute;
+  width: 38px;
+  height: 9px;
+  left: calc(50% - 38px / 2 - 171.5px);
+  bottom: 174px;
+
+  background: #afb9c5;
+  border-radius: 2px;
+
+  /* Lamp Body */
+
+  position: absolute;
+  width: 64px;
+  height: 75px;
+  left: calc(50% - 64px / 2 - 171.5px);
+  bottom: 181px;
+
+  background: #dde3e9;
+
+  /* Booty */
+
+  position: absolute;
+  width: 64px;
+  height: 31px;
+  left: calc(50% - 64px / 2 - 171.5px);
+  bottom: 181px;
+
+  background: #d8d8d8;
+  border-radius: 27.5px;
+
+  /* Neck */
+
+  position: absolute;
+  width: 19px;
+  height: 44px;
+  left: calc(50% - 19px / 2 - 171px);
+  bottom: 212px;
+
+  background: #d8d8d8;
+
+  /* Lamp Stuff */
+
+  position: absolute;
+  width: 10px;
+  height: 44px;
+  left: calc(50% - 10px / 2 - 175.5px);
+  bottom: 212px;
+
+  background: #d8d8d8;
+
+  /* Lamp Stuff */
+
+  position: absolute;
+  width: 10px;
+  height: 44px;
+  left: calc(50% - 10px / 2 - 166.5px);
+  bottom: 212px;
+
+  background: #d8d8d8;
+
+  /* Shade */
+
+  position: absolute;
+  width: 78px;
+  height: 83px;
+  left: calc(50% - 78px / 2 - 172.5px);
+  bottom: 244px;
+
+  background: #c5cfd6;
+
+  /* Table */
+
+  position: absolute;
+  width: 125px;
+  height: 104px;
+  left: calc(50% - 125px / 2 - 172px);
+  bottom: 70px;
+
+  background: #f2f2f2;
+
+  /* Table Stuff */
+
+  position: absolute;
+  width: 21px;
+  height: 104px;
+  left: calc(50% - 21px / 2 - 224px);
+  bottom: 70px;
+
+  background: #d8d8d8;
+
+  /* Table Stuff */
+
+  position: absolute;
+  width: 21px;
+  height: 104px;
+  left: calc(50% - 21px / 2 - 120px);
+  bottom: 70px;
+
+  background: #d8d8d8;
+
+  /* Table Stuff */
+
+  position: absolute;
+  width: 125px;
+  height: 22px;
+  left: calc(50% - 125px / 2 - 172px);
+  bottom: 152px;
+
+  background: #d8d8d8;
+
+  /* Plant */
+
+  position: absolute;
+  width: 111px;
+  height: 282px;
+  left: 673px;
+  top: 440px;
+
+  /* Succulents */
+
+  position: absolute;
+  width: 85px;
+  height: 192px;
+  left: 686px;
+  top: 440px;
+
+  /* Thi Succs! */
+
+  position: absolute;
+  width: 39px;
+  height: 190px;
+  left: calc(50% - 39px / 2 + 203px);
+  bottom: 162px;
+
+  background: #c1dee2;
+
+  /* Thi Succs! */
+
+  position: absolute;
+  width: 35px;
+  height: 150px;
+  left: calc(50% - 35px / 2 + 198px);
+  bottom: 161px;
+
+  background: #89c5cc;
+
+  /* Thi Succs! */
+
+  position: absolute;
+  width: 18px;
+  height: 146px;
+  left: calc(50% - 18px / 2 + 256.5px);
+  bottom: 190px;
+
+  background: #c1dee2;
+
+  /* Thi Succs! */
+
+  position: absolute;
+  width: 23px;
+  height: 114px;
+  left: calc(50% - 23px / 2 + 195px);
+  bottom: 162px;
+
+  background: #c1dee2;
+
+  /* Thi Succs! */
+
+  position: absolute;
+  width: 21px;
+  height: 166px;
+  left: calc(50% - 21px / 2 + 212px);
+  bottom: 161px;
+
+  background: #69a1ac;
+
+  /* Thi Succs! */
+
+  position: absolute;
+  width: 17px;
+  height: 87px;
+  left: calc(50% - 17px / 2 + 257px);
+  bottom: 174px;
+
+  background: #89c5cc;
+
+  /* Thi Succs! */
+
+  position: absolute;
+  width: 25px;
+  height: 170px;
+  left: calc(50% - 25px / 2 + 241px);
+  bottom: 160px;
+
+  background: #69a1ac;
+
+  /* Thi Succs! */
+
+  position: absolute;
+  width: 27px;
+  height: 191px;
+  left: calc(50% - 27px / 2 + 226px);
+  bottom: 161px;
+
+  background: #89c5cc;
+
+  /* Planter */
+
+  position: absolute;
+  width: 111px;
+  height: 123px;
+  left: 673px;
+  top: 599px;
+
+  /* Vase */
+
+  position: absolute;
+  width: 91px;
+  height: 91px;
+  left: calc(50% - 91px / 2 + 223px);
+  bottom: 102px;
+
+  background: #ffffff;
+  border-radius: 2px;
+
+  /* Leg */
+
+  position: absolute;
+  width: 10px;
+  height: 113px;
+  left: calc(50% - 10px / 2 + 172.5px);
+  bottom: 70px;
+
+  background: #c5cfd6;
+  border-radius: 2px;
+
+  /* Leg */
+
+  position: absolute;
+  width: 10px;
+  height: 113px;
+  left: calc(50% - 10px / 2 + 222.5px);
+  bottom: 70px;
+
+  background: #c5cfd6;
+  border-radius: 2px;
+
+  /* Leg */
+
+  position: absolute;
+  width: 10px;
+  height: 113px;
+  left: calc(50% - 10px / 2 + 273.5px);
+  bottom: 70px;
+
+  background: #c5cfd6;
+  border-radius: 2px;
+
+  /* Group 2 */
+
+  position: absolute;
+  width: 667px;
+  height: 551px;
+  left: 368px;
+  top: 337px;
+
+  /* Group */
+
+  position: absolute;
+  width: 337px;
+  height: 480px;
+  left: 368px;
+  top: 408px;
+
+  /* Head */
+
+  position: absolute;
+  width: 152.77px;
+  height: 116.91px;
+  left: 451.13px;
+  top: 408px;
+
+  /* Head */
+
+  position: absolute;
+  width: 47.18px;
+  height: 82.06px;
+  left: 60.66px;
+  top: 34.85px;
+
+  /* Head */
+
+  position: absolute;
+  left: 39.71%;
+  right: 29.41%;
+  top: 29.81%;
+  bottom: 0%;
+
+  background: #b28b67;
+
+  /* Neck */
+
+  position: absolute;
+  left: 39.71%;
+  right: 42.65%;
+  top: 54.81%;
+  bottom: 0%;
+
+  background: #b28b67;
+
+  /* Head */
+
+  position: absolute;
+  left: 40.44%;
+  right: 29.41%;
+  top: 29.81%;
+  bottom: 22.66%;
+
+  background: #b28b67;
+
+  /* Combined Shape */
+
+  position: absolute;
+  left: 38.24%;
+  right: 32.35%;
+  top: 27.88%;
+  bottom: 35.58%;
+
+  background: #191847;
+
+  /* Path 2 */
+
+  position: absolute;
+  left: 38.24%;
+  right: 32.35%;
+  top: 27.88%;
+  bottom: 35.58%;
+
+  background: #101030;
+
+  /* Oval */
+
+  position: absolute;
+  left: 45.59%;
+  right: 47.06%;
+  top: 50.96%;
+  bottom: 38.46%;
+
+  background: #101030;
+
+  /* Bottom */
+
+  position: absolute;
+  width: 337px;
+  height: 268.67px;
+  left: 368px;
+  top: 619.33px;
+
+  /* Skin */
+
+  position: absolute;
+  left: 63.36%;
+  right: 6.67%;
+  top: 5.52%;
+  bottom: 34.52%;
+
+  background: #b28b67;
+
+  /* LegLower */
+
+  position: absolute;
+  left: 77.46%;
+  right: 11.02%;
+  top: 3.85%;
+  bottom: 42.32%;
+
+  background: #b28b67;
+  transform: matrix(0.94, 0.34, -0.34, 0.94, 0, 0);
+
+  /* Leg Back */
+
+  position: absolute;
+  left: 81.8%;
+  right: 6.67%;
+  top: 5.52%;
+  bottom: 34.52%;
+
+  background: #b28b67;
+
+  /* Leg Back */
+
+  position: absolute;
+  left: 76.38%;
+  right: 10.28%;
+  top: 3.36%;
+  bottom: 49.85%;
+
+  background: #1f28cf;
+  transform: matrix(0.94, 0.34, -0.34, 0.94, 0, 0);
+
+  /* Leg Front */
+
+  position: absolute;
+  left: 37.33%;
+  right: 6.33%;
+  top: 0.1%;
+  bottom: 47.72%;
+
+  background: #2b44ff;
+
+  /* Left Shoe */
+
+  position: absolute;
+  left: 64.02%;
+  right: 15.64%;
+  top: 42.44%;
+  bottom: 40.82%;
+
+  transform: matrix(0.97, 0.24, -0.24, 0.97, 0, 0);
+
+  /* shoe */
+
+  position: absolute;
+  left: 9.92%;
+  right: -5%;
+  top: 46.7%;
+  bottom: 0.8%;
+
+  background: #e4e4e4;
+  transform: matrix(0.97, 0.24, -0.24, 0.97, 0, 0);
+
+  /* Right Shoe */
+
+  position: absolute;
+  left: 81%;
+  right: -1.33%;
+  top: 46.44%;
+  bottom: 36.82%;
+
+  /* shoe */
+
+  position: absolute;
+  left: 1.64%;
+  right: 3.28%;
+  top: 47.5%;
+  bottom: 0%;
+
+  background: #e4e4e4;
+
+  /* Base */
+
+  position: absolute;
+  left: 81.67%;
+  right: 0.67%;
+  top: 63.18%;
+  bottom: 33.89%;
+
+  background: #2f3676;
+  border-radius: 4px;
+
+  /* Seat */
+
+  position: absolute;
+  left: 33%;
+  right: 24.67%;
+  top: 2.51%;
+  bottom: 72.8%;
+
+  background: #2f3676;
+  border-radius: 10px 10px 0px 4px;
+
+  /* Wheel Stuff */
+
+  position: absolute;
+  left: 72%;
+  right: 16.67%;
+  top: 2.51%;
+  bottom: 38.08%;
+
+  background: #2f3676;
+
+  /* Front Wheel */
+
+  position: absolute;
+  left: 75.67%;
+  right: 12.33%;
+  top: 55.23%;
+  bottom: 29.71%;
+
+  background: #191847;
+
+  /* Wheel */
+
+  position: absolute;
+  width: 170.75px;
+  height: 170.87px;
+  left: 40.44px;
+  top: 15.74px;
+
+  /* Wheel */
+
+  position: absolute;
+  left: 12%;
+  right: 37.33%;
+  top: 5.86%;
+  bottom: 30.54%;
+
+  background: #191847;
+
+  /* Body */
+
+  position: absolute;
+  left: 12%;
+  right: 37.33%;
+  top: 5.86%;
+  bottom: 30.54%;
+
+  background: #d8d8d8;
+
+  /* Hole */
+
+  position: absolute;
+  left: 16.67%;
+  right: 42%;
+  top: 11.72%;
+  bottom: 36.4%;
+
+  background: #d8d8d8;
+
+  /* Wheel Stuff */
+
+  position: absolute;
+  left: 36%;
+  right: 61.33%;
+  top: 10.04%;
+  bottom: 34.73%;
+
+  background: #191847;
+
+  /* Wheel Stuff */
+
+  position: absolute;
+  left: 51.95%;
+  right: 45.39%;
+  top: 16.95%;
+  bottom: 27.84%;
+
+  background: #191847;
+  border-radius: 2px;
+  transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+
+  /* Wheel Stuff */
+
+  position: absolute;
+  left: 59.33%;
+  right: 38%;
+  top: 35.98%;
+  bottom: 8.83%;
+
+  background: #191847;
+  border-radius: 2px;
+  transform: rotate(90deg);
+
+  /* Wheel Stuff */
+
+  position: absolute;
+  left: 53.83%;
+  right: 43.5%;
+  top: 56%;
+  bottom: -11.21%;
+
+  background: #191847;
+  border-radius: 2px;
+  transform: matrix(-0.71, 0.71, -0.71, -0.71, 0, 0);
+
+  /* Guide */
+
+  position: absolute;
+  visibility: hidden;
+  left: 36.67%;
+  right: 36.33%;
+  top: 0%;
+  bottom: 95.4%;
+
+  background: #d8d8d8;
+  mix-blend-mode: normal;
+  opacity: 0.62;
+
+  /* Body/Long Sleeve 1 */
+
+  position: absolute;
+  width: 287.57px;
+  height: 210.21px;
+  left: 390.47px;
+  top: 500.18px;
+
+  /* Skin */
+
+  position: absolute;
+  left: 7.09%;
+  right: 0%;
+  top: 27.27%;
+  bottom: 3.12%;
+
+  background: #997659;
+
+  /* Arm */
+
+  position: absolute;
+  left: 75%;
+  right: 0%;
+  top: 27.27%;
+  bottom: 55.61%;
+
+  background: #997659;
+
+  /* Arm */
+
+  position: absolute;
+  left: -0.2%;
+  right: 64.49%;
+  top: 47.6%;
+  bottom: -0.92%;
+
+  background: #b28b67;
+  transform: matrix(0.98, -0.21, 0.21, 0.98, 0, 0);
+
+  /* Clothes Back */
+
+  position: absolute;
+  left: 49.99%;
+  right: 6.48%;
+  top: 2.48%;
+  bottom: 44.81%;
+
+  background: #afb9c5;
+  transform: matrix(1, 0.09, -0.09, 1, 0, 0);
+
+  /* Clothes */
+
+  position: absolute;
+  left: 16.56%;
+  right: 34.77%;
+  top: 0%;
+  bottom: 21.39%;
+
+  background: #c5cfd6;
+
+  /* Clothes Body */
+
+  position: absolute;
+  left: 34.37%;
+  right: 34.77%;
+  top: 0%;
+  bottom: 40.11%;
+
+  background: #c5cfd6;
+
+  /* Clothes Front */
+
+  position: absolute;
+  left: 16.56%;
+  right: 51.4%;
+  top: 0%;
+  bottom: 21.39%;
+
+  background: #c5cfd6;
+
+  /* Shade */
+
+  position: absolute;
+  left: 37.83%;
+  right: 56.6%;
+  top: 24.92%;
+  bottom: 40.11%;
+
+  background: rgba(0, 0, 0, 0.1);
+
+  /* Shade */
+
+  position: absolute;
+  left: 34.37%;
+  right: 56.48%;
+  top: 6.42%;
+  bottom: 40.11%;
+
+  background: rgba(0, 0, 0, 0.1);
+
+  /* Clothes Front */
+
+  position: absolute;
+  left: 16.56%;
+  right: 51.4%;
+  top: 0%;
+  bottom: 21.39%;
+
+  background: #c5cfd6;
+
+  /* Guide */
+
+  position: absolute;
+  visibility: hidden;
+  left: 34.37%;
+  right: 33.98%;
+  top: 60.96%;
+  bottom: 33.16%;
+
+  background: #989898;
+
+  /* Head */
+
+  position: absolute;
+  width: 153px;
+  height: 117px;
+  left: 934px;
+  top: 337px;
+
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Head */
+
+  position: absolute;
+  width: 47.25px;
+  height: 82.12px;
+  left: 92.25px;
+  top: 34.88px;
+
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Head */
+
+  position: absolute;
+  left: 60.29%;
+  right: 8.82%;
+  top: 29.81%;
+  bottom: 0%;
+
+  background: #b28b67;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Neck */
+
+  position: absolute;
+  left: 60.29%;
+  right: 22.06%;
+  top: 54.81%;
+  bottom: 0%;
+
+  background: #b28b67;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Head */
+
+  position: absolute;
+  left: 59.56%;
+  right: 10.29%;
+  top: 29.81%;
+  bottom: 22.66%;
+
+  background: #b28b67;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Hair */
+
+  position: absolute;
+  left: 60.38%;
+  right: 7.75%;
+  top: 27.9%;
+  bottom: 21.9%;
+
+  background: #191847;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Path */
+
+  position: absolute;
+  left: 60.38%;
+  right: 10.44%;
+  top: 27.9%;
+  bottom: 35.18%;
+
+  background: #191847;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Beard */
+
+  position: absolute;
+  left: 47.29%;
+  right: 33.92%;
+  top: 46.53%;
+  bottom: 21.9%;
+
+  background: #191847;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Bottom */
+
+  position: absolute;
+  width: 337px;
+  height: 269px;
+  left: 1035px;
+  top: 549px;
+
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Leg */
+
+  position: absolute;
+  left: 57.33%;
+  right: 19.28%;
+  top: 0%;
+  bottom: 4.75%;
+
+  background: #997659;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Leg */
+
+  position: absolute;
+  left: 71.15%;
+  right: 0.63%;
+  top: 0%;
+  bottom: 3.89%;
+
+  background: #b28b67;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Left Shoe */
+
+  position: absolute;
+  left: 72%;
+  right: 7.67%;
+  top: 83.26%;
+  bottom: 0%;
+
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* shoe */
+
+  position: absolute;
+  left: 98.36%;
+  right: -93.44%;
+  top: 47.5%;
+  bottom: 0%;
+
+  background: #e4e4e4;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Right Shoe */
+
+  position: absolute;
+  left: 40.67%;
+  right: 39%;
+  top: 83.26%;
+  bottom: 0%;
+
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* shoe */
+
+  position: absolute;
+  left: 98.36%;
+  right: -93.44%;
+  top: 47.5%;
+  bottom: 0%;
+
+  background: #e4e4e4;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Guide */
+
+  position: absolute;
+  visibility: hidden;
+  left: 63.33%;
+  right: 9.67%;
+  top: 0%;
+  bottom: 95.4%;
+
+  background: #d8d8d8;
+  mix-blend-mode: normal;
+  opacity: 0.53;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Bottom */
+
+  position: absolute;
+  left: 59%;
+  right: 19.38%;
+  top: 0%;
+  bottom: 73.77%;
+
+  background: #69a1ac;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Bottom */
+
+  position: absolute;
+  left: 63.62%;
+  right: 14.56%;
+  top: 0%;
+  bottom: 73.77%;
+
+  background: #89c5cc;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Body */
+
+  position: absolute;
+  width: 288px;
+  height: 210px;
+  left: 992.99px;
+  top: 410.98px;
+
+  transform: matrix(-0.99, 0.14, 0.14, 0.99, 0, 0);
+
+  /* Skin */
+
+  position: absolute;
+  left: 90.65%;
+  right: -72.48%;
+  top: 49.74%;
+  bottom: 1.04%;
+
+  background: #b28b67;
+  transform: matrix(-0.99, 0.14, 0.14, 0.99, 0, 0);
+
+  /* Arm */
+
+  position: absolute;
+  left: 31.83%;
+  right: 44.34%;
+  top: 60.7%;
+  bottom: 14.7%;
+
+  background: #b28b67;
+  transform: matrix(-0.97, 0.22, 0.23, 0.97, 0, 0);
+
+  /* Arm */
+
+  position: absolute;
+  left: 97.46%;
+  right: -25.3%;
+  top: 56.24%;
+  bottom: -1.6%;
+
+  background: #b28b67;
+  transform: matrix(-1, -0.07, -0.07, 1, 0, 0);
+
+  /* Coat Back */
+
+  position: absolute;
+  left: 49.72%;
+  right: 13.17%;
+  top: 11.18%;
+  bottom: 19%;
+
+  background: #191847;
+  transform: matrix(-0.97, 0.22, 0.23, 0.97, 0, 0);
+
+  /* Shirt */
+
+  position: absolute;
+  left: 64.21%;
+  right: 5.71%;
+  top: 6.71%;
+  bottom: 32.33%;
+
+  background: #dde3e9;
+  transform: matrix(-0.99, 0.14, 0.14, 0.99, 0, 0);
+
+  /* Coat Front */
+
+  position: absolute;
+  left: 77.75%;
+  right: -11.87%;
+  top: 4.1%;
+  bottom: 17.29%;
+
+  background: #2f3676;
+  transform: matrix(-0.99, 0.14, 0.14, 0.99, 0, 0);
+
+  /* Clothes Body */
+
+  position: absolute;
+  left: 70.65%;
+  right: 2.39%;
+  top: 5.47%;
+  bottom: 22.55%;
+
+  background: #2f3676;
+  transform: matrix(-0.99, 0.14, 0.14, 0.99, 0, 0);
+
+  /* Clothes Front */
+
+  position: absolute;
+  left: 77.75%;
+  right: -4.31%;
+  top: 4.1%;
+  bottom: 17.29%;
+
+  background: #2f3676;
+  transform: matrix(-0.99, 0.14, 0.14, 0.99, 0, 0);
+
+  /* Shade */
+
+  position: absolute;
+  left: 68.12%;
+  right: 26.37%;
+  top: 52.13%;
+  bottom: 21.4%;
+
+  background: rgba(0, 0, 0, 0.1);
+  transform: matrix(-0.99, 0.14, 0.14, 0.99, 0, 0);
+
+  /* Shade */
+
+  position: absolute;
+  left: 70.01%;
+  right: 21%;
+  top: 36.37%;
+  bottom: 21.92%;
+
+  background: rgba(0, 0, 0, 0.1);
+  transform: matrix(-0.99, 0.14, 0.14, 0.99, 0, 0);
+
+  /* Clothes Front */
+
+  position: absolute;
+  left: 77.75%;
+  right: -4.31%;
+  top: 4.1%;
+  bottom: 17.29%;
+
+  background: #2f3676;
+  transform: matrix(-0.99, 0.14, 0.14, 0.99, 0, 0);
+
+  /* Light */
+
+  position: absolute;
+  left: 64.16%;
+  right: 26.12%;
+  top: 56.63%;
+  bottom: 37.18%;
+
+  background: rgba(255, 255, 255, 0.2);
+  transform: matrix(-0.99, 0.14, 0.14, 0.99, 0, 0);
+
+  /* Guide */
+
+  position: absolute;
+  visibility: hidden;
+  left: 68.85%;
+  right: 4.19%;
+  top: 67.38%;
+  bottom: 26.74%;
+
+  background: #989898;
+  transform: matrix(-0.99, 0.14, 0.14, 0.99, 0, 0);
+}

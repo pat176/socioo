@@ -1,0 +1,62 @@
+.head {
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+}
+.btnCont {
+  text-align: center;
+}
+.btn {
+  background: #f50c20;
+  padding: 7px;
+  border-radius: 5px;
+  border: 3px solid white;
+  font-weight: bold;
+}
+.btn {
+  color: white;
+}
+
+.btn:hover,
+.btn:focus,
+.btn:active {
+  cursor: pointer;
+  color: #f50c20;
+  background: white;
+  transition: 0.15s all ease;
+}
+
+.btn {
+  line-height: 1.5;
+  font-size: 1.2em;
+  margin-bottom: 5px;
+}
+.cont {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+.opt {
+  margin: 0.8rem;
+  padding: 1.2rem;
+  font-size: 1.2em;
+  text-align: center;
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  color: white;
+  text-decoration: none;
+  border: 3px solid white;
+  font-weight: bold;
+  border-radius: 10px;
+  background: #f50c20;
+  transition: all 0.15s ease;
+}
+.sel,
+.opt:hover,
+.opt:focus,
+.opt:active {
+  color: #f50c20;
+  border-color: #f50c20;
+  background: #fff;
+}
