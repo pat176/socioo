@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <div className={styles.image}>
         <Image
-          src="/../public/horizontal_on_white_by_logaster.png"
+          src="/public/horizontal_on_white_by_logaster.png"
           height="auto"
           width={300}
         />
