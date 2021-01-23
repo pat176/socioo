@@ -368,6 +368,7 @@ export class Play extends Component {
             <div className={styles.btnCont}>
               {this.state.selectedIndex >= 0 ? (
                 <button
+                  disabled={this.state.selectedIndex >= 0 ? false : true}
                   className={styles.btn}
                   onClick={() => {
                     this.submitOpt();
