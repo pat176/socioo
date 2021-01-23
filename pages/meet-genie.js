@@ -9,7 +9,7 @@ export class MeetGenie extends Component {
       <div className={styles.mainCont}>
         <div className={styles.cont}>
           <Image
-            src="/public/sitting-genie.png"
+            src="/sitting-genie.png"
             alt="sitting genie"
             height="230"
             width="190"

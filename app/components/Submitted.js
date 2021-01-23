@@ -18,7 +18,7 @@ export default class Submitted extends Component {
   render() {
     return (
       <div className={styles.cont}>
-        <Image src="/public/standing-genie.png" height="200" width="150" />
+        <Image src="/standing-genie.png" height="200" width="150" />
         {this.state.showR ? (
           <div>
             <h1 className={styles.heading}>
@@ -103,7 +103,7 @@ export default class Submitted extends Component {
           </div>
         )}
 
-        <Image src="/public/sitting-genie.png" height="200" width="150" />
+        <Image src="/sitting-genie.png" height="200" width="150" />
       </div>
     );
   }

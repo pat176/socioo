@@ -48,7 +48,7 @@ export class Play extends Component {
           },
           { desc: "None of the above", points: 0 },
         ]),
-        img: "/public/ques1.png",
+        img: "/ques1.png",
       },
       {
         title:
@@ -71,7 +71,7 @@ export class Play extends Component {
           },
           { desc: "Both B and C", points: 10 },
         ],
-        img: "/public/dog.png",
+        img: "/dog.png",
       },
       {
         title:
@@ -95,7 +95,7 @@ export class Play extends Component {
           },
           { desc: "First A and then C", points: 10 },
         ],
-        img: "/public/park.png",
+        img: "/park.png",
       },
       {
         title:
@@ -116,7 +116,7 @@ export class Play extends Component {
           },
           { desc: "Share that with your friends", points: 10 },
         ],
-        img: "/public/ques4.png",
+        img: "/ques4.png",
       },
       {
         title:
@@ -144,7 +144,7 @@ export class Play extends Component {
             points: 10,
           },
         ]),
-        img: "/public/ques4.png",
+        img: "/ques4.png",
       },
       {
         title:
@@ -172,7 +172,7 @@ export class Play extends Component {
             points: 10,
           },
         ]),
-        img: "/public/lying-man.jpg",
+        img: "/lying-man.jpg",
       },
       {
         title:
@@ -200,7 +200,7 @@ export class Play extends Component {
             points: 10,
           },
         ]),
-        img: "/public/school-pen.png",
+        img: "/school-pen.png",
       },
       {
         title:
@@ -226,7 +226,7 @@ export class Play extends Component {
             points: 10,
           },
         ]),
-        img: "/public/school-pen.png",
+        img: "/school-pen.png",
       },
       {
         title: "You see a student cheating in the exam, what would you do?",
@@ -252,7 +252,7 @@ export class Play extends Component {
             points: 10,
           },
         ]),
-        img: "/public/sitting-boy.png",
+        img: "/sitting-boy.png",
       },
       {
         title:
@@ -279,7 +279,7 @@ export class Play extends Component {
             points: 10,
           },
         ]),
-        img: "/public/smoking-man.png",
+        img: "/smoking-man.png",
       },
     ]),
     quesNo: 0,
