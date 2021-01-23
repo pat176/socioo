@@ -1,6 +1,6 @@
 .container {
   min-height: 100vh;
-  padding: 0 0.5rem;
+  padding: 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -140,4 +140,11 @@
   .grid {
     width: 100%;
   }
+}
+.image {
+  height: auto;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+  background: white;
 }

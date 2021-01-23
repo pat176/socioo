@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
 import styles from "../styles/Home.module.css";
+import Image from "next/image";
 
 export default function Home() {
   return (
@@ -9,7 +10,13 @@ export default function Home() {
         <title>Socioo | Quiz Game to imbibe social skills</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+      <div className={styles.image}>
+        <Image
+          src="/../public/horizontal_on_white_by_logaster.png"
+          height="auto"
+          width={300}
+        />
+      </div>
       <main className={styles.main}>
         <h1 className={styles.title}>Wanna test your social skills?</h1>
         <Link href="/meet-genie">
