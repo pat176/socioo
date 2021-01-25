@@ -35,7 +35,7 @@ export default function Home() {
           <button className={styles.card}>
             <h3>How to play?</h3>
             <p>
-              You'll be given a 20 situation based questions one by one along
+              You'll be given a 10 situation based questions one by one along
               with 4 options and you'll have to choose one of them and according
               to the chosen option we'll tell you if you lack any social skills
               or not
